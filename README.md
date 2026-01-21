@@ -61,4 +61,4 @@ It is intended as a first EDA project and a foundation for future improvements.
 
 ## Acknowledgments
 
-This project was inspired by data analysis and visualization concepts learned from DataCamp, and developed independently as hands-on practice.
+This project was inspired by data analysis concepts learned from DataCamp, and developed independently as hands-on practice.
